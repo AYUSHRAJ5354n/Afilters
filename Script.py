@@ -493,7 +493,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 
  எப்படி மற்றும் என்ன செய்ய வேண்டும்
 
- படி 1: இந்த Ott File Sender போட் உங்கள் குழுவை நிர்வாகியாக்குங்கள்
+ படி 1: இந்த Movie Sender போட் உங்கள் குழுவை நிர்வாகியாக்குங்கள்
 
  படி 2: உங்கள் இணையதளம் மற்றும் API ஐச் சேர்க்கவும்
 
@@ -520,7 +520,7 @@ Hey <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a>
 
  How and what to do
 
- Step 1: Administer this Ott File Sender bot to your group
+ Step 1: Administer this Movie Sender to your group
 
  Step 2: Add your website and API
 
@@ -628,7 +628,7 @@ Also your tutorial will be Added Your Group..."""
 
  کیسے اور کیا کرنا ہے۔
 
- مرحلہ 1: اپنے گروپ میں اس Ott File Sender بوٹ کا انتظام کریں۔
+ مرحلہ 1: اپنے گروپ میں اس Movie Sender بوٹ کا انتظام کریں۔
 
  مرحلہ 2: اپنی ویب سائٹ اور API شامل کریں۔
 
@@ -655,7 +655,7 @@ Also your tutorial will be Added Your Group..."""
 
  કેવી રીતે અને શું કરવું
 
- પગલું 1: તમારા જૂથમાં આ Ott File Sender બોટનું સંચાલન કરો
+ પગલું 1: તમારા જૂથમાં આ Movie Sender બોટનું સંચાલન કરો
 
  પગલું 2: તમારી વેબસાઇટ અને API ઉમેરો
 
@@ -707,7 +707,7 @@ Also your tutorial will be Added Your Group..."""
 
  কিভাবে এবং কি করতে হবে
 
- ধাপ 1: আপনার গ্রুপে এই Ott File Sender বট পরিচালনা করুন
+ ধাপ 1: আপনার গ্রুপে এই Movie Sender বট পরিচালনা করুন
 
  ধাপ 2: আপনার ওয়েবসাইট এবং API যোগ করুন
 

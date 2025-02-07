@@ -248,7 +248,7 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 
-<b> Size ⚙️: {file_size}\n\n𝖩𝗈𝗂𝗇➥ 「<aCyber_Fcracker href="https://t.me/Cyber_Fcracker"></a>」</b>""">
+<b> Size ⚙️: {file_size} </b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}

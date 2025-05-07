@@ -246,9 +246,9 @@ Nᴀᴍᴇ - {}"""
 
 message
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
+<b> CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 
-<b> Join for more movie ⚙️: @CGM_Files </b>"""
+<b> join ⚙️: @CGM_Files </b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}

@@ -255,17 +255,17 @@ CAPTION = """<b>Fɪʟᴇɴᴀᴍᴇ : {file_name}
 
 IMDb Data:
 
-<b>🏷 Title</b>: <a href={url}>{title}</a>
-🎭 Genres: {genres}
-📆 Year: <a href={url}/releaseinfo>{year}</a>
-🌟 Rating: <a href={url}/ratings>{rating}</a> / 10 (based on {votes} user ratings.)
-☀️ Languages : <code>{languages}</code>
-📀 RunTime: {runtime} Minutes
-📆 Release Info : {release_date}
-🎛 Countries : <code>{countries}</code>
+<b> Title</b>: <a href={url}>{title}</a>
+Genres: {genres}
+Year: <a href={url}/releaseinfo>{year}</a>
+Rating: <a href={url}/ratings>{rating}</a> / 10 (based on {votes} user ratings.)
+Languages : <code>{languages}</code>
+RunTime: {runtime} Minutes
+Release Info : {release_date}
+Countries : <code>{countries}</code>
 
 
-⏰Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
+Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
 
 Requested by : {message.from_user.mention}</b>"""
     
@@ -338,16 +338,16 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
  /covid - ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ᴡɪᴛʜ yᴏᴜʀ ᴄᴏᴜɴᴛʀy ɴᴀᴍᴇ ᴛᴏ ɢᴇᴛ ᴄᴏᴠɪᴅᴇ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ 
  ᴇxᴀᴍᴩʟᴇ:<code>/covid 𝖨𝗇𝖽𝗂𝖺</code> 
   
- ⚠️ ᴛʜɪꜱ ꜱᴇʀᴠɪᴄᴇ ʜᴀꜱ ʙᴇᴇɴ ꜱᴛᴏᴩᴩᴇᴅ 
+  ᴛʜɪꜱ ꜱᴇʀᴠɪᴄᴇ ʜᴀꜱ ʙᴇᴇɴ ꜱᴛᴏᴩᴩᴇᴅ 
   
  </b>""" 
 
     PROGRESS_BAR = """\n
 ╭━━━━❰ File Is Renaming... ❱━➣
-┣⪼ 🗂️ : {1} | {2}
-┣⪼ ⏳️ : {0}%
-┣⪼ 🚀 : {3}/s
-┣⪼ ⏱️ : {4}
+┣⪼  : {1} | {2}
+┣⪼  : {0}%
+┣⪼  : {3}/s
+┣⪼  : {4}
 ╰━━━━━━━━━━━━━━━➣ """
   
     ABOOK_TXT = """<b>ʜᴇʟᴩ : ᴀᴜᴅɪᴏʙᴏᴏᴋ 
@@ -375,7 +375,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
     STICKER_TXT = """<b>yᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴛʜɪꜱ ᴍᴏᴅᴜʟᴇ ᴛᴏ ꜰɪɴᴅᴀɴy  ꜱᴛɪᴄᴋᴇʀꜱ ɪᴅ. 
  • ᴜꜱᴀɢᴇ :ᴛᴏ ɢᴇᴛ ꜱᴛɪᴄᴋᴇʀ 
    
- ⭕ ʜᴏᴡ ᴛᴏ ᴜꜱᴇ 
+  ʜᴏᴡ ᴛᴏ ᴜꜱᴇ 
  /stickerid
  </b>""" 
   
@@ -458,7 +458,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
   
  ᴀʟʟ ᴛʜᴇ ᴩɪɴ ʀᴇᴩʟᴀᴛᴇᴅ ᴄᴏᴍᴍᴀɴᴅꜱ ᴄᴀɴ ʙᴇ ꜰᴏᴜɴᴅ ʜᴇʀᴇ: 
   
- 📌ᴄᴏᴍᴍᴀɴᴅꜱ ᴀɴᴅ ᴜꜱᴀɢᴇ📌 
+ ᴄᴏᴍᴍᴀɴᴅꜱ ᴀɴᴅ ᴜꜱᴀɢᴇ
   
  /pin :- ᴛᴏ ᴩɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ ᴏɴ ʏᴏᴜʀ ᴄʜᴀᴛꜱ 
  /unpin :- ᴛᴏ ᴜɴᴩɪɴ ᴛʜᴇ ᴄᴜʀʀᴇᴇɴᴛ ᴩɪɴɴᴇᴅ ᴍᴇꜱꜱᴀɢᴇ</b>"""
@@ -467,10 +467,10 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
     RESTART_TXT = """
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
 
-📅 Dᴀᴛᴇ : <code>{}</code>
-⏰ Tɪᴍᴇ : <code>{}</code>
-🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
-🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
+Dᴀᴛᴇ : <code>{}</code>
+Tɪᴍᴇ : <code>{}</code>
+Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
+Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
 
     LOGO = """
 ████████╗███████╗███████╗██╗  ██╗    ╔██        ██╗       ██╗
@@ -722,7 +722,7 @@ Also your tutorial will be Added Your Group..."""
 এছাড়াও আপনার দল ভিডিও সংগ্রহের প্রশিক্ষণ দেবে..."""
 
     RENAME_TXT = """
-🌌 <b><u>HOW TO SET THUMBNAIL</u></b>
+ <b><u>HOW TO SET THUMBNAIL</u></b>
   
 •> /set_thumb - send any picture to automatically set thumbnail.
 •> /del_thumb use this command and delete your old thumbnail.
@@ -734,11 +734,11 @@ Also your tutorial will be Added Your Group..."""
 •> /see_caption - see your custom caption
 •> /del_caption - delete custom caption
 
-Example:- /set_caption 📕 File Name: {filename}
-💾 Size: {filesize}
-⏰ Duration: {duration}
+Example:- /set_caption  File Name: {filename}
+Size: {filesize}
+Duration: {duration}
 
-✏️ <b><u>HOW TO RENAME A FILE</u></b>
+<b><u>HOW TO RENAME A FILE</u></b>
 
 •> /rename - send any file and click rename option and type new file name and \nthen select [ document, video, audio ]👈 choice this.
 """

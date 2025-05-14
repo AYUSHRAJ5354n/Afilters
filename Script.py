@@ -248,7 +248,7 @@ message
 
 # -*- coding: utf-8 -*-
 CAPTION = """<b>Fɪʟᴇɴᴀᴍᴇ : {file_name}
-<b> join ⚙️: @CGM_Files </b>"""
+<b> join : @CGM_Files </b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}

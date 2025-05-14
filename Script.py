@@ -246,7 +246,8 @@ Nᴀᴍᴇ - {}"""
 
 message
 
-CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
+# -*- coding: utf-8 -*-
+CAPTION = """<b>Fɪʟᴇɴᴀᴍᴇ : {file_name}
 <b> join ⚙️: @CGM_Files </b>"""
 
     IMDB_TEMPLATE_TXT = """
